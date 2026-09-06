@@ -1,0 +1,9 @@
+:root {
+  color: #172033;
+  background: #f4f7fb;
+  font-family: Inter, system-ui, sans-serif;
+}
+
+body { margin: 0; }
+main { max-width: 48rem; margin: 15vh auto; padding: 2rem; text-align: center; }
+h1 { color: #155eef; }
